@@ -9,7 +9,6 @@
     "lint": "eslint src --ext .tsx,.ts",
     "lint:fix": "eslint src --ext .tsx,.ts --fix",
     "build": "tsc -b && vite build",
-    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
